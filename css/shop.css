@@ -19,3 +19,8 @@ p.flashy {
 body {
   background-color: pink;
 }
+
+ol.flashy {
+  color: red;
+  font-style: italic;
+}
