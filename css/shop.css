@@ -47,3 +47,13 @@ h3.flashy {
 p.center {
   text-align: center;
 }
+
+p.large {
+  font-size: larger;
+}
+
+li.best {
+  font-size: large;
+  color: blue;
+  font-weight: 100;
+}
