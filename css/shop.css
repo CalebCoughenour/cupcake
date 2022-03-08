@@ -1,26 +1,49 @@
 h1 {
   text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h2 {
   text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;;
 }
 
 h3 {
   text-align: center;
   font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-p.flashy {
-  color: red;
-  font-style: italic;
+h4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
 }
 
 body {
   background-color: pink;
 }
 
+p.flashy {
+  color: red;
+  font-style: italic;
+  font-size: large;
+}
+
 ol.flashy {
   color: red;
   font-style: italic;
+  font-size: large;
+}
+
+h3.flashy {
+  color: red;
+  font-style: italic;
+  font-size: large;
+}
+
+p.center {
+  text-align: center;
 }
