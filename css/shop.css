@@ -10,3 +10,12 @@ h3 {
   text-align: center;
   font-style: italic;
 }
+
+p.flashy {
+  color: red;
+  font-style: italic;
+}
+
+body {
+  background-color: pink;
+}
